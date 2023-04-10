@@ -1,0 +1,87 @@
+.login-container {
+    background-image: url('picture1.jpg');
+    background-size: cover;
+   
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+  }
+  .login-container1 {
+    background-image: url('picture1.jpg');
+    background-size: cover;
+   
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+  }
+  .table{
+    margin-top: 9rem;
+  }
+  .login-container2 {
+    background-image: url('picture1.jpg');
+    background-size: cover;
+    
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+  }
+  .login{
+    
+  
+   
+    color: rgb(255, 255, 255);
+    font-style: italic;
+    font-family: "calya";
+    font-size:x-large;
+    font-weight:400;
+    width: 23rem;
+    position: relative;
+    border-radius: 8px;
+    opacity: 99%;
+    position: absolute;
+    z-index: 1;
+   
+    background-color: rgba(22, 59, 86, 0.388);
+    font-family: 'system-ui';
+   
+  }
+  .ButtonCarr{
+    
+    margin-bottom: 20rem;
+    margin-right: 37rem;
+    font-size: 600;
+    
+  }
+  .my-datepicker {
+    background-color: white;
+    border: 1px solid lightgray;
+    border-radius: 4px;
+    font-size: 14px;
+  }
+  
+  .my-datepicker .form-control {
+    border: none;
+    height: 34px;
+    padding: 6px 12px;
+    width: 100%;
+  }
+  
+  .my-datepicker .input-group-addon {
+    background-color: lightgray;
+    border: none;
+    border-radius: 4px 0 0 4px;
+    color: white;
+    cursor: pointer;
+    height: 34px;
+    padding: 6px 12px;
+    width: 40px;
+  }
